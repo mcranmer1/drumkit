@@ -3,6 +3,7 @@ title: Marble
 date: 2018-05-21 22:55:00 Z
 file: "/uploads/marbles-daniel_simon.wav"
 keycode: 70
+is-free: true
 ---
 
 This is marble sound
